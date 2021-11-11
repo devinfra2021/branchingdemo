@@ -1,11 +1,6 @@
 #THIS IS FIRST HEAD
 FEKJGHGRKJERHGKHERKJHREKJHEEHLHKJHLHJH
-<<<<<<< HEAD
-djekjfhwkjghgkghghhgkjgj
-this is main branch
-=======
-ffkefkljklgl
->>>>>>> simple-chenages
+
 ## THIS IS SECOND HEADER
 FJWHRGKJWHGKJWGHKJGHGKJHGKJGHKJGHKJGHGKJGHGKJHG
 
